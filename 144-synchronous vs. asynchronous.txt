@@ -1,0 +1,31 @@
+using System;
+namespace example
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+    
+  	
+	
+     }
+public async Task<int> GetTotal()
+{
+    int x=5;
+    int y=15;
+
+
+    showWarning();
+
+    
+
+    return await x*y;
+}
+
+void showWarning()
+{
+    Console.WriteLine("Working...");
+    // more code could be running here
+}
+  }
+}
