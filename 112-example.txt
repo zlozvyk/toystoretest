@@ -5,7 +5,7 @@ namespace example
   {
     static void Main(string[] args)
     {
-      Console.WriteLine(“hello, everyone!”);
+      Console.WriteLine(“hello, all you wonderful people!”);
       int i = 1;
 
       ToyCar toyCar1 = new ToyCar('Sedan','Blue',16)
